@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+  <Traits>
+    <Row>
+      <Type>CELESTIAL_EMPIRE</Type>
+			<Description>TXT_KEY_TRAIT_CELESTIAL_EMPIRE</Description>
+			<ShortDescription>TXT_KEY_TRAIT_CELESTIAL_EMPIRE</ShortDescription>
+			<GreatGeneralRateModifier>50</GreatGeneralRateModifier>
+			<GreatGeneralExtraBonus>15</GreatGeneralExtraBonus>
+      <CityUnhappinessModifier>-50</CityUnhappinessModifier>
+      <PopulationUnhappinessModifier>-50</PopulationUnhappinessModifier>
+      <CityStateFriendshipModifier>100</CityStateFriendshipModifier>
+      <CapitalBuildingModifier>25</CapitalBuildingModifier>
+      <CultureFromKills>100</CultureFromKills>
+      <WonderProductionModifier>25</WonderProductionModifier>
+      <GoldenAgeDurationModifier>50</GoldenAgeDurationModifier>
+      <GoldenAgeMoveChange>1</GoldenAgeMoveChange>
+      <ExtraFoundedCityTerritoryClaimRange>10</ExtraFoundedCityTerritoryClaimRange>
+      <NaturalWonderFirstFinderGold>500</NaturalWonderFirstFinderGold>
+			<NaturalWonderSubsequentFinderGold>100</NaturalWonderSubsequentFinderGold>
+			<NaturalWonderYieldModifier>100</NaturalWonderYieldModifier>
+			<NaturalWonderHappinessModifier>100</NaturalWonderHappinessModifier>
+    </Row>
+  </Traits>
+</GameData>
